@@ -46,7 +46,7 @@ The project uses a BlinkIT grocery sales dataset containing information related 
 
 ## Repository Structure
 
-
+```text
 Blinkit-Data-Analytics-Project/
 │
 ├── Dataset/
@@ -67,7 +67,7 @@ Blinkit-Data-Analytics-Project/
 │
 └── Tableau/
     └── New_BLINKIT_PROJECT_11.twbx
-
+```
 
 ## Key Skills Demonstrated
 
